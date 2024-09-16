@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@langchain/anthropic": "^0.2.16",
+    "@langchain/community": "^0.2.31",
+    "@langchain/core": "^0.2.31",
+    "@langchain/langgraph": "^0.2.0",
+    "@langchain/openai": "^0.2.8"
+  },
+  "type": "module",
+  "devDependencies": {
+    "dotenv": "^16.4.5",
+    "typescript": "^5.5.4",
+    "@tsconfig/recommended": "^1.0.7"
+  }
+}
